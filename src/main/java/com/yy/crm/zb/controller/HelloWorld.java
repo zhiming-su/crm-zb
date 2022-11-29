@@ -10,6 +10,6 @@ public class HelloWorld {
     @GetMapping("hello")
     @ResponseBody
     public String hellow(){
-        return "hello";
+        return "hello java";
     }
 }
